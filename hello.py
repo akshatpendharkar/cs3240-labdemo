@@ -1,8 +1,7 @@
 # Akshat Pendharkar (ap3ca)
-# Lab 5 Prelab
+# CS 3240 Lab 5
 
-def greeting(msg):
-    print(msg)
+from helper import greeting
 
 
 
